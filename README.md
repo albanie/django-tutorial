@@ -1,0 +1,1 @@
+This repo is a simple replica of the django tutorial.
