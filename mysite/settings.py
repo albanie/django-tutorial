@@ -23,8 +23,8 @@ SECRET_KEY = 'xswh0ap(ga@$#xivjd1@-w57%g0-g!ovcn4ed5*fd7p5q_dih#'
 DEBUG = True
 
 TEMPLATE_DEBUG = True
-
 TEMPLATE_DIRS = [os.path.join(BASE_DIR, 'templates')]
+TEMPLATE_STRING_IF_INVALID = ''
 
 ALLOWED_HOSTS = []
 
